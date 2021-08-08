@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Heading Pro';
+    src: local('Heading Pro Book'), local('Heading-Pro-Book'),
+        url('HeadingPro-Book.woff2') format('woff2'),
+        url('HeadingPro-Book.woff') format('woff'),
+        url('HeadingPro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
